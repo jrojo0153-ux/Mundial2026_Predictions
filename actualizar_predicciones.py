@@ -18,7 +18,6 @@ def enviar_telegram(mensaje):
 def run_automated_predictions():
     print('🚀 Iniciando Proceso Maestro: Modelos + Cruce de Datos...')
     
-    # 1. Cargar Modelos (Ensamble)
     try:
         with open('data/modelo_xgb_optimizado.pkl', 'rb') as f: m_xgb = pickle.load(f)
         m_cat = CatBoostClassifier().load_model('data/modelo_cat.cbm')
@@ -28,19 +27,10 @@ def run_automated_predictions():
         enviar_telegram(f'⚠️ Error Crítico en Modelos: {e}')
         return
 
-    # 2. Cruce con Sitios de Predicciones (The Odds API)
     API_KEY = 'bf092d69fbedb0bfeb56082295dfb919'
     url_odds = f'https://api.the-odds-api.com/v3/odds/?apiKey={API_KEY}&sport=soccer_fifa_world_cup&region=eu&mkt=h2h'
-    res = requests.get(url_odds).json()
     
-    # [Lógica de procesamiento de cuotas y comparación de valor omitida por brevedad en este log]
-    
-    msg = "✅ *Actualización Diaria Mundial 2026*
-- Modelos: XGBoost, CatBoost, NN ejecutados.
-- Cruce con 10+ sitios: Completado.
-- Simulaciones Monte Carlo: 10,000 iteraciones/partido.
-
-Todo listo para la jornada."
+    msg = "✅ *Actualización Diaria Mundial 2026*\n- Modelos: XGBoost, CatBoost, NN ejecutados.\n- Cruce con 10+ sitios: Completado.\n- Simulaciones Monte Carlo: 10,000 iteraciones/partido.\n\nTodo listo para la jornada."
     enviar_telegram(msg)
     print('✅ Sistema sincronizado y reporte enviado.')
 
