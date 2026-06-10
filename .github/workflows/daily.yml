@@ -1,0 +1,26 @@
+name: Daily Update
+on:
+  schedule:
+    - cron: '0 0 * * *' # Ejecutar cada medianoche
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install pandas requests xgboost catboost scikit-learn tensorflow
+      - name: Run prediction script
+        run: python actualizar_predicciones.py
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/*
+          git commit -m "Actualización diaria de predicciones" || echo "No changes to commit"
+          git push
