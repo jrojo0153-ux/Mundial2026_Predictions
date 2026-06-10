@@ -19,10 +19,7 @@ def enviar_telegram(mensaje):
 
 def run_automated_predictions():
     print('🚀 Iniciando Predicción Automatizada 2026...')
-    msg = "✅ *Reporte Diario Mundial 2026*
-El sistema se ha actualizado correctamente.
-Modelos: XGBoost, CatBoost, NN.
-Estado: Sincronizado."
+    msg = "✅ *Reporte Diario Mundial 2026*\nEl sistema se ha actualizado correctamente.\nModelos: XGBoost, CatBoost, NN.\nEstado: Sincronizado."
 
     if os.path.exists('data/reporte_diario.csv'):
         enviar_telegram(msg)
