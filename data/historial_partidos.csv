@@ -1,193 +1,193 @@
-fecha,local,goles_local,visitante,goles_visitante,mundial
-2014-06-12T20:00Z,Brazil,3,Croatia,1,2014
-2014-06-13T16:00Z,Mexico,1,Cameroon,0,2014
-2014-06-13T19:00Z,Spain,1,Netherlands,5,2014
-2014-06-13T22:00Z,Chile,3,Australia,1,2014
-2014-06-14T16:00Z,Colombia,3,Greece,0,2014
-2014-06-14T19:00Z,Uruguay,1,Costa Rica,3,2014
-2014-06-14T22:00Z,England,1,Italy,2,2014
-2014-06-15T01:00Z,Ivory Coast,2,Japan,1,2014
-2014-06-15T16:00Z,Switzerland,2,Ecuador,1,2014
-2014-06-15T19:00Z,France,3,Honduras,0,2014
-2014-06-15T22:00Z,Argentina,2,Bosnia-Herzegovina,1,2014
-2014-06-16T16:00Z,Germany,4,Portugal,0,2014
-2014-06-16T19:00Z,Iran,0,Nigeria,0,2014
-2014-06-16T22:00Z,Ghana,1,United States,2,2014
-2014-06-17T16:00Z,Belgium,2,Algeria,1,2014
-2014-06-17T19:00Z,Brazil,0,Mexico,0,2014
-2014-06-17T22:00Z,Russia,1,South Korea,1,2014
-2014-06-18T16:00Z,Australia,2,Netherlands,3,2014
-2014-06-18T19:00Z,Spain,0,Chile,2,2014
-2014-06-18T22:00Z,Cameroon,0,Croatia,4,2014
-2014-06-19T16:00Z,Colombia,2,Ivory Coast,1,2014
-2014-06-19T19:00Z,Uruguay,2,England,1,2014
-2014-06-19T22:00Z,Japan,0,Greece,0,2014
-2014-06-20T16:00Z,Italy,0,Costa Rica,1,2014
-2014-06-20T19:00Z,Switzerland,2,France,5,2014
-2014-06-20T22:00Z,Honduras,1,Ecuador,2,2014
-2014-06-21T16:00Z,Argentina,1,Iran,0,2014
-2014-06-21T19:00Z,Germany,2,Ghana,2,2014
-2014-06-21T22:00Z,Nigeria,1,Bosnia-Herzegovina,0,2014
-2014-06-22T16:00Z,Belgium,1,Russia,0,2014
-2014-06-22T19:00Z,South Korea,2,Algeria,4,2014
-2014-06-22T22:00Z,United States,2,Portugal,2,2014
-2014-06-23T16:00Z,Australia,0,Spain,3,2014
-2014-06-23T16:00Z,Netherlands,2,Chile,0,2014
-2014-06-23T20:00Z,Cameroon,1,Brazil,4,2014
-2014-06-23T20:00Z,Croatia,1,Mexico,3,2014
-2014-06-24T16:00Z,Costa Rica,0,England,0,2014
-2014-06-24T16:00Z,Italy,0,Uruguay,1,2014
-2014-06-24T20:00Z,Greece,2,Ivory Coast,1,2014
-2014-06-24T20:00Z,Japan,1,Colombia,4,2014
-2014-06-25T16:00Z,Bosnia-Herzegovina,3,Iran,1,2014
-2014-06-25T16:00Z,Nigeria,2,Argentina,3,2014
-2014-06-25T20:00Z,Ecuador,0,France,0,2014
-2014-06-25T20:00Z,Honduras,0,Switzerland,3,2014
-2014-06-26T16:00Z,Portugal,2,Ghana,1,2014
-2014-06-26T16:00Z,United States,0,Germany,1,2014
-2014-06-26T20:00Z,Algeria,1,Russia,1,2014
-2014-06-26T20:00Z,South Korea,0,Belgium,1,2014
-2014-06-28T16:00Z,Brazil,1,Chile,1,2014
-2014-06-28T20:00Z,Colombia,2,Uruguay,0,2014
-2014-06-29T16:00Z,Netherlands,2,Mexico,1,2014
-2014-06-29T20:00Z,Costa Rica,1,Greece,1,2014
-2014-06-30T16:00Z,France,2,Nigeria,0,2014
-2014-06-30T20:00Z,Germany,2,Algeria,1,2014
-2014-07-01T16:00Z,Argentina,1,Switzerland,0,2014
-2014-07-01T20:00Z,Belgium,2,United States,1,2014
-2014-07-04T16:00Z,France,0,Germany,1,2014
-2014-07-04T20:00Z,Brazil,2,Colombia,1,2014
-2014-07-05T16:00Z,Argentina,1,Belgium,0,2014
-2014-07-05T20:00Z,Netherlands,0,Costa Rica,0,2014
-2014-07-08T20:00Z,Brazil,1,Germany,7,2014
-2014-07-09T20:00Z,Netherlands,0,Argentina,0,2014
-2014-07-12T20:00Z,Brazil,0,Netherlands,3,2014
-2014-07-13T19:00Z,Germany,1,Argentina,0,2014
-2018-06-14T15:00Z,Russia,5,Saudi Arabia,0,2018
-2018-06-15T12:00Z,Egypt,0,Uruguay,1,2018
-2018-06-15T15:00Z,Morocco,0,Iran,1,2018
-2018-06-15T18:00Z,Portugal,3,Spain,3,2018
-2018-06-16T10:00Z,France,2,Australia,1,2018
-2018-06-16T13:00Z,Argentina,1,Iceland,1,2018
-2018-06-16T16:00Z,Peru,0,Denmark,1,2018
-2018-06-16T19:00Z,Croatia,2,Nigeria,0,2018
-2018-06-17T12:00Z,Costa Rica,0,Serbia,1,2018
-2018-06-17T15:00Z,Germany,0,Mexico,1,2018
-2018-06-17T18:00Z,Brazil,1,Switzerland,1,2018
-2018-06-18T12:00Z,Sweden,1,South Korea,0,2018
-2018-06-18T15:00Z,Belgium,3,Panama,0,2018
-2018-06-18T18:00Z,Tunisia,1,England,2,2018
-2018-06-19T12:00Z,Colombia,1,Japan,2,2018
-2018-06-19T15:00Z,Poland,1,Senegal,2,2018
-2018-06-19T18:00Z,Russia,3,Egypt,1,2018
-2018-06-20T12:00Z,Portugal,1,Morocco,0,2018
-2018-06-20T15:00Z,Uruguay,1,Saudi Arabia,0,2018
-2018-06-20T18:00Z,Iran,0,Spain,1,2018
-2018-06-21T12:00Z,Denmark,1,Australia,1,2018
-2018-06-21T15:00Z,France,1,Peru,0,2018
-2018-06-21T18:00Z,Argentina,0,Croatia,3,2018
-2018-06-22T12:00Z,Brazil,2,Costa Rica,0,2018
-2018-06-22T15:00Z,Nigeria,2,Iceland,0,2018
-2018-06-22T18:00Z,Serbia,1,Switzerland,2,2018
-2018-06-23T12:00Z,Belgium,5,Tunisia,2,2018
-2018-06-23T15:00Z,South Korea,1,Mexico,2,2018
-2018-06-23T18:00Z,Germany,2,Sweden,1,2018
-2018-06-24T12:00Z,England,6,Panama,1,2018
-2018-06-24T15:00Z,Japan,2,Senegal,2,2018
-2018-06-24T18:00Z,Poland,0,Colombia,3,2018
-2018-06-25T14:00Z,Saudi Arabia,2,Egypt,1,2018
-2018-06-25T14:00Z,Uruguay,3,Russia,0,2018
-2018-06-25T18:00Z,Iran,1,Portugal,1,2018
-2018-06-25T18:00Z,Spain,2,Morocco,2,2018
-2018-06-26T14:00Z,Australia,0,Peru,2,2018
-2018-06-26T14:00Z,Denmark,0,France,0,2018
-2018-06-26T18:00Z,Iceland,1,Croatia,2,2018
-2018-06-26T18:00Z,Nigeria,1,Argentina,2,2018
-2018-06-27T14:00Z,Mexico,0,Sweden,3,2018
-2018-06-27T14:00Z,South Korea,2,Germany,0,2018
-2018-06-27T18:00Z,Serbia,0,Brazil,2,2018
-2018-06-27T18:00Z,Switzerland,2,Costa Rica,2,2018
-2018-06-28T14:00Z,Japan,0,Poland,1,2018
-2018-06-28T14:00Z,Senegal,0,Colombia,1,2018
-2018-06-28T18:00Z,England,0,Belgium,1,2018
-2018-06-28T18:00Z,Panama,1,Tunisia,2,2018
-2018-06-30T14:00Z,France,4,Argentina,3,2018
-2018-06-30T18:00Z,Uruguay,2,Portugal,1,2018
-2018-07-01T14:00Z,Spain,1,Russia,1,2018
-2018-07-01T18:00Z,Croatia,1,Denmark,1,2018
-2018-07-02T14:00Z,Brazil,2,Mexico,0,2018
-2018-07-02T18:00Z,Belgium,3,Japan,2,2018
-2018-07-03T14:00Z,Sweden,1,Switzerland,0,2018
-2018-07-03T18:00Z,Colombia,1,England,1,2018
-2018-07-06T14:00Z,Uruguay,0,France,2,2018
-2018-07-06T18:00Z,Brazil,1,Belgium,2,2018
-2018-07-07T14:00Z,Sweden,0,England,2,2018
-2018-07-07T18:00Z,Russia,2,Croatia,2,2018
-2018-07-10T18:00Z,France,1,Belgium,0,2018
-2018-07-11T18:00Z,Croatia,2,England,1,2018
-2018-07-14T14:00Z,Belgium,2,England,0,2018
-2018-07-15T15:00Z,France,4,Croatia,2,2018
-2022-11-20T16:00Z,Qatar,0,Ecuador,2,2022
-2022-11-21T13:00Z,England,6,Iran,2,2022
-2022-11-21T16:00Z,Senegal,0,Netherlands,2,2022
-2022-11-21T19:00Z,United States,1,Wales,1,2022
-2022-11-22T10:00Z,Argentina,1,Saudi Arabia,2,2022
-2022-11-22T13:00Z,Denmark,0,Tunisia,0,2022
-2022-11-22T16:00Z,Mexico,0,Poland,0,2022
-2022-11-22T19:00Z,France,4,Australia,1,2022
-2022-11-23T10:00Z,Morocco,0,Croatia,0,2022
-2022-11-23T13:00Z,Germany,1,Japan,2,2022
-2022-11-23T16:00Z,Spain,7,Costa Rica,0,2022
-2022-11-23T19:00Z,Belgium,1,Canada,0,2022
-2022-11-24T10:00Z,Switzerland,1,Cameroon,0,2022
-2022-11-24T13:00Z,Uruguay,0,South Korea,0,2022
-2022-11-24T16:00Z,Portugal,3,Ghana,2,2022
-2022-11-24T19:00Z,Brazil,2,Serbia,0,2022
-2022-11-25T10:00Z,Wales,0,Iran,2,2022
-2022-11-25T13:00Z,Qatar,1,Senegal,3,2022
-2022-11-25T16:00Z,Netherlands,1,Ecuador,1,2022
-2022-11-25T19:00Z,England,0,United States,0,2022
-2022-11-26T10:00Z,Tunisia,0,Australia,1,2022
-2022-11-26T13:00Z,Poland,2,Saudi Arabia,0,2022
-2022-11-26T16:00Z,France,2,Denmark,1,2022
-2022-11-26T19:00Z,Argentina,2,Mexico,0,2022
-2022-11-27T10:00Z,Japan,0,Costa Rica,1,2022
-2022-11-27T13:00Z,Belgium,0,Morocco,2,2022
-2022-11-27T16:00Z,Croatia,4,Canada,1,2022
-2022-11-27T19:00Z,Spain,1,Germany,1,2022
-2022-11-28T10:00Z,Cameroon,3,Serbia,3,2022
-2022-11-28T13:00Z,South Korea,2,Ghana,3,2022
-2022-11-28T16:00Z,Brazil,1,Switzerland,0,2022
-2022-11-28T19:00Z,Portugal,2,Uruguay,0,2022
-2022-11-29T15:00Z,Ecuador,1,Senegal,2,2022
-2022-11-29T15:00Z,Netherlands,2,Qatar,0,2022
-2022-11-29T19:00Z,Iran,0,United States,1,2022
-2022-11-29T19:00Z,Wales,0,England,3,2022
-2022-11-30T15:00Z,Australia,1,Denmark,0,2022
-2022-11-30T15:00Z,Tunisia,1,France,0,2022
-2022-11-30T19:00Z,Poland,0,Argentina,2,2022
-2022-11-30T19:00Z,Saudi Arabia,1,Mexico,2,2022
-2022-12-01T15:00Z,Canada,1,Morocco,2,2022
-2022-12-01T15:00Z,Croatia,0,Belgium,0,2022
-2022-12-01T19:00Z,Costa Rica,2,Germany,4,2022
-2022-12-01T19:00Z,Japan,2,Spain,1,2022
-2022-12-02T15:00Z,Ghana,0,Uruguay,2,2022
-2022-12-02T15:00Z,South Korea,2,Portugal,1,2022
-2022-12-02T19:00Z,Cameroon,1,Brazil,0,2022
-2022-12-02T19:00Z,Serbia,2,Switzerland,3,2022
-2022-12-03T15:00Z,Netherlands,3,United States,1,2022
-2022-12-03T19:00Z,Argentina,2,Australia,1,2022
-2022-12-04T15:00Z,France,3,Poland,1,2022
-2022-12-04T19:00Z,England,3,Senegal,0,2022
-2022-12-05T15:00Z,Japan,1,Croatia,1,2022
-2022-12-05T19:00Z,Brazil,4,South Korea,1,2022
-2022-12-06T15:00Z,Morocco,0,Spain,0,2022
-2022-12-06T19:00Z,Portugal,6,Switzerland,1,2022
-2022-12-09T15:00Z,Croatia,1,Brazil,1,2022
-2022-12-09T19:00Z,Netherlands,2,Argentina,2,2022
-2022-12-10T15:00Z,Morocco,1,Portugal,0,2022
-2022-12-10T19:00Z,England,1,France,2,2022
-2022-12-13T19:00Z,Argentina,3,Croatia,0,2022
-2022-12-14T19:00Z,France,2,Morocco,0,2022
-2022-12-17T15:00Z,Croatia,2,Morocco,1,2022
-2022-12-18T15:00Z,Argentina,3,France,3,2022
+fecha,local,goles_local,visitante,goles_visitante,mundial,fecha_dt
+2014-06-12T20:00Z,Brazil,3,Croatia,1,2014,
+2014-06-13T16:00Z,Mexico,1,Cameroon,0,2014,
+2014-06-13T19:00Z,Spain,1,Netherlands,5,2014,
+2014-06-13T22:00Z,Chile,3,Australia,1,2014,
+2014-06-14T16:00Z,Colombia,3,Greece,0,2014,
+2014-06-14T19:00Z,Uruguay,1,Costa Rica,3,2014,
+2014-06-14T22:00Z,England,1,Italy,2,2014,
+2014-06-15T01:00Z,Ivory Coast,2,Japan,1,2014,
+2014-06-15T16:00Z,Switzerland,2,Ecuador,1,2014,
+2014-06-15T19:00Z,France,3,Honduras,0,2014,
+2014-06-15T22:00Z,Argentina,2,Bosnia-Herzegovina,1,2014,
+2014-06-16T16:00Z,Germany,4,Portugal,0,2014,
+2014-06-16T19:00Z,Iran,0,Nigeria,0,2014,
+2014-06-16T22:00Z,Ghana,1,United States,2,2014,
+2014-06-17T16:00Z,Belgium,2,Algeria,1,2014,
+2014-06-17T19:00Z,Brazil,0,Mexico,0,2014,
+2014-06-17T22:00Z,Russia,1,South Korea,1,2014,
+2014-06-18T16:00Z,Australia,2,Netherlands,3,2014,
+2014-06-18T19:00Z,Spain,0,Chile,2,2014,
+2014-06-18T22:00Z,Cameroon,0,Croatia,4,2014,
+2014-06-19T16:00Z,Colombia,2,Ivory Coast,1,2014,
+2014-06-19T19:00Z,Uruguay,2,England,1,2014,
+2014-06-19T22:00Z,Japan,0,Greece,0,2014,
+2014-06-20T16:00Z,Italy,0,Costa Rica,1,2014,
+2014-06-20T19:00Z,Switzerland,2,France,5,2014,
+2014-06-20T22:00Z,Honduras,1,Ecuador,2,2014,
+2014-06-21T16:00Z,Argentina,1,Iran,0,2014,
+2014-06-21T19:00Z,Germany,2,Ghana,2,2014,
+2014-06-21T22:00Z,Nigeria,1,Bosnia-Herzegovina,0,2014,
+2014-06-22T16:00Z,Belgium,1,Russia,0,2014,
+2014-06-22T19:00Z,South Korea,2,Algeria,4,2014,
+2014-06-22T22:00Z,United States,2,Portugal,2,2014,
+2014-06-23T16:00Z,Australia,0,Spain,3,2014,
+2014-06-23T16:00Z,Netherlands,2,Chile,0,2014,
+2014-06-23T20:00Z,Cameroon,1,Brazil,4,2014,
+2014-06-23T20:00Z,Croatia,1,Mexico,3,2014,
+2014-06-24T16:00Z,Costa Rica,0,England,0,2014,
+2014-06-24T16:00Z,Italy,0,Uruguay,1,2014,
+2014-06-24T20:00Z,Greece,2,Ivory Coast,1,2014,
+2014-06-24T20:00Z,Japan,1,Colombia,4,2014,
+2014-06-25T16:00Z,Bosnia-Herzegovina,3,Iran,1,2014,
+2014-06-25T16:00Z,Nigeria,2,Argentina,3,2014,
+2014-06-25T20:00Z,Ecuador,0,France,0,2014,
+2014-06-25T20:00Z,Honduras,0,Switzerland,3,2014,
+2014-06-26T16:00Z,Portugal,2,Ghana,1,2014,
+2014-06-26T16:00Z,United States,0,Germany,1,2014,
+2014-06-26T20:00Z,Algeria,1,Russia,1,2014,
+2014-06-26T20:00Z,South Korea,0,Belgium,1,2014,
+2014-06-28T16:00Z,Brazil,1,Chile,1,2014,
+2014-06-28T20:00Z,Colombia,2,Uruguay,0,2014,
+2014-06-29T16:00Z,Netherlands,2,Mexico,1,2014,
+2014-06-29T20:00Z,Costa Rica,1,Greece,1,2014,
+2014-06-30T16:00Z,France,2,Nigeria,0,2014,
+2014-06-30T20:00Z,Germany,2,Algeria,1,2014,
+2014-07-01T16:00Z,Argentina,1,Switzerland,0,2014,
+2014-07-01T20:00Z,Belgium,2,United States,1,2014,
+2014-07-04T16:00Z,France,0,Germany,1,2014,
+2014-07-04T20:00Z,Brazil,2,Colombia,1,2014,
+2014-07-05T16:00Z,Argentina,1,Belgium,0,2014,
+2014-07-05T20:00Z,Netherlands,0,Costa Rica,0,2014,
+2014-07-08T20:00Z,Brazil,1,Germany,7,2014,
+2014-07-09T20:00Z,Netherlands,0,Argentina,0,2014,
+2014-07-12T20:00Z,Brazil,0,Netherlands,3,2014,
+2014-07-13T19:00Z,Germany,1,Argentina,0,2014,
+2018-06-14T15:00Z,Russia,5,Saudi Arabia,0,2018,
+2018-06-15T12:00Z,Egypt,0,Uruguay,1,2018,
+2018-06-15T15:00Z,Morocco,0,Iran,1,2018,
+2018-06-15T18:00Z,Portugal,3,Spain,3,2018,
+2018-06-16T10:00Z,France,2,Australia,1,2018,
+2018-06-16T13:00Z,Argentina,1,Iceland,1,2018,
+2018-06-16T16:00Z,Peru,0,Denmark,1,2018,
+2018-06-16T19:00Z,Croatia,2,Nigeria,0,2018,
+2018-06-17T12:00Z,Costa Rica,0,Serbia,1,2018,
+2018-06-17T15:00Z,Germany,0,Mexico,1,2018,
+2018-06-17T18:00Z,Brazil,1,Switzerland,1,2018,
+2018-06-18T12:00Z,Sweden,1,South Korea,0,2018,
+2018-06-18T15:00Z,Belgium,3,Panama,0,2018,
+2018-06-18T18:00Z,Tunisia,1,England,2,2018,
+2018-06-19T12:00Z,Colombia,1,Japan,2,2018,
+2018-06-19T15:00Z,Poland,1,Senegal,2,2018,
+2018-06-19T18:00Z,Russia,3,Egypt,1,2018,
+2018-06-20T12:00Z,Portugal,1,Morocco,0,2018,
+2018-06-20T15:00Z,Uruguay,1,Saudi Arabia,0,2018,
+2018-06-20T18:00Z,Iran,0,Spain,1,2018,
+2018-06-21T12:00Z,Denmark,1,Australia,1,2018,
+2018-06-21T15:00Z,France,1,Peru,0,2018,
+2018-06-21T18:00Z,Argentina,0,Croatia,3,2018,
+2018-06-22T12:00Z,Brazil,2,Costa Rica,0,2018,
+2018-06-22T15:00Z,Nigeria,2,Iceland,0,2018,
+2018-06-22T18:00Z,Serbia,1,Switzerland,2,2018,
+2018-06-23T12:00Z,Belgium,5,Tunisia,2,2018,
+2018-06-23T15:00Z,South Korea,1,Mexico,2,2018,
+2018-06-23T18:00Z,Germany,2,Sweden,1,2018,
+2018-06-24T12:00Z,England,6,Panama,1,2018,
+2018-06-24T15:00Z,Japan,2,Senegal,2,2018,
+2018-06-24T18:00Z,Poland,0,Colombia,3,2018,
+2018-06-25T14:00Z,Saudi Arabia,2,Egypt,1,2018,
+2018-06-25T14:00Z,Uruguay,3,Russia,0,2018,
+2018-06-25T18:00Z,Iran,1,Portugal,1,2018,
+2018-06-25T18:00Z,Spain,2,Morocco,2,2018,
+2018-06-26T14:00Z,Australia,0,Peru,2,2018,
+2018-06-26T14:00Z,Denmark,0,France,0,2018,
+2018-06-26T18:00Z,Iceland,1,Croatia,2,2018,
+2018-06-26T18:00Z,Nigeria,1,Argentina,2,2018,
+2018-06-27T14:00Z,Mexico,0,Sweden,3,2018,
+2018-06-27T14:00Z,South Korea,2,Germany,0,2018,
+2018-06-27T18:00Z,Serbia,0,Brazil,2,2018,
+2018-06-27T18:00Z,Switzerland,2,Costa Rica,2,2018,
+2018-06-28T14:00Z,Japan,0,Poland,1,2018,
+2018-06-28T14:00Z,Senegal,0,Colombia,1,2018,
+2018-06-28T18:00Z,England,0,Belgium,1,2018,
+2018-06-28T18:00Z,Panama,1,Tunisia,2,2018,
+2018-06-30T14:00Z,France,4,Argentina,3,2018,
+2018-06-30T18:00Z,Uruguay,2,Portugal,1,2018,
+2018-07-01T14:00Z,Spain,1,Russia,1,2018,
+2018-07-01T18:00Z,Croatia,1,Denmark,1,2018,
+2018-07-02T14:00Z,Brazil,2,Mexico,0,2018,
+2018-07-02T18:00Z,Belgium,3,Japan,2,2018,
+2018-07-03T14:00Z,Sweden,1,Switzerland,0,2018,
+2018-07-03T18:00Z,Colombia,1,England,1,2018,
+2018-07-06T14:00Z,Uruguay,0,France,2,2018,
+2018-07-06T18:00Z,Brazil,1,Belgium,2,2018,
+2018-07-07T14:00Z,Sweden,0,England,2,2018,
+2018-07-07T18:00Z,Russia,2,Croatia,2,2018,
+2018-07-10T18:00Z,France,1,Belgium,0,2018,
+2018-07-11T18:00Z,Croatia,2,England,1,2018,
+2018-07-14T14:00Z,Belgium,2,England,0,2018,
+2018-07-15T15:00Z,France,4,Croatia,2,2018,
+2022-11-20T16:00Z,Qatar,0,Ecuador,2,2022,
+2022-11-21T13:00Z,England,6,Iran,2,2022,
+2022-11-21T16:00Z,Senegal,0,Netherlands,2,2022,
+2022-11-21T19:00Z,United States,1,Wales,1,2022,
+2022-11-22T10:00Z,Argentina,1,Saudi Arabia,2,2022,
+2022-11-22T13:00Z,Denmark,0,Tunisia,0,2022,
+2022-11-22T16:00Z,Mexico,0,Poland,0,2022,
+2022-11-22T19:00Z,France,4,Australia,1,2022,
+2022-11-23T10:00Z,Morocco,0,Croatia,0,2022,
+2022-11-23T13:00Z,Germany,1,Japan,2,2022,
+2022-11-23T16:00Z,Spain,7,Costa Rica,0,2022,
+2022-11-23T19:00Z,Belgium,1,Canada,0,2022,
+2022-11-24T10:00Z,Switzerland,1,Cameroon,0,2022,
+2022-11-24T13:00Z,Uruguay,0,South Korea,0,2022,
+2022-11-24T16:00Z,Portugal,3,Ghana,2,2022,
+2022-11-24T19:00Z,Brazil,2,Serbia,0,2022,
+2022-11-25T10:00Z,Wales,0,Iran,2,2022,
+2022-11-25T13:00Z,Qatar,1,Senegal,3,2022,
+2022-11-25T16:00Z,Netherlands,1,Ecuador,1,2022,
+2022-11-25T19:00Z,England,0,United States,0,2022,
+2022-11-26T10:00Z,Tunisia,0,Australia,1,2022,
+2022-11-26T13:00Z,Poland,2,Saudi Arabia,0,2022,
+2022-11-26T16:00Z,France,2,Denmark,1,2022,
+2022-11-26T19:00Z,Argentina,2,Mexico,0,2022,
+2022-11-27T10:00Z,Japan,0,Costa Rica,1,2022,
+2022-11-27T13:00Z,Belgium,0,Morocco,2,2022,
+2022-11-27T16:00Z,Croatia,4,Canada,1,2022,
+2022-11-27T19:00Z,Spain,1,Germany,1,2022,
+2022-11-28T10:00Z,Cameroon,3,Serbia,3,2022,
+2022-11-28T13:00Z,South Korea,2,Ghana,3,2022,
+2022-11-28T16:00Z,Brazil,1,Switzerland,0,2022,
+2022-11-28T19:00Z,Portugal,2,Uruguay,0,2022,
+2022-11-29T15:00Z,Ecuador,1,Senegal,2,2022,
+2022-11-29T15:00Z,Netherlands,2,Qatar,0,2022,
+2022-11-29T19:00Z,Iran,0,United States,1,2022,
+2022-11-29T19:00Z,Wales,0,England,3,2022,
+2022-11-30T15:00Z,Australia,1,Denmark,0,2022,
+2022-11-30T15:00Z,Tunisia,1,France,0,2022,
+2022-11-30T19:00Z,Poland,0,Argentina,2,2022,
+2022-11-30T19:00Z,Saudi Arabia,1,Mexico,2,2022,
+2022-12-01T15:00Z,Canada,1,Morocco,2,2022,
+2022-12-01T15:00Z,Croatia,0,Belgium,0,2022,
+2022-12-01T19:00Z,Costa Rica,2,Germany,4,2022,
+2022-12-01T19:00Z,Japan,2,Spain,1,2022,
+2022-12-02T15:00Z,Ghana,0,Uruguay,2,2022,
+2022-12-02T15:00Z,South Korea,2,Portugal,1,2022,
+2022-12-02T19:00Z,Cameroon,1,Brazil,0,2022,
+2022-12-02T19:00Z,Serbia,2,Switzerland,3,2022,
+2022-12-03T15:00Z,Netherlands,3,United States,1,2022,
+2022-12-03T19:00Z,Argentina,2,Australia,1,2022,
+2022-12-04T15:00Z,France,3,Poland,1,2022,
+2022-12-04T19:00Z,England,3,Senegal,0,2022,
+2022-12-05T15:00Z,Japan,1,Croatia,1,2022,
+2022-12-05T19:00Z,Brazil,4,South Korea,1,2022,
+2022-12-06T15:00Z,Morocco,0,Spain,0,2022,
+2022-12-06T19:00Z,Portugal,6,Switzerland,1,2022,
+2022-12-09T15:00Z,Croatia,1,Brazil,1,2022,
+2022-12-09T19:00Z,Netherlands,2,Argentina,2,2022,
+2022-12-10T15:00Z,Morocco,1,Portugal,0,2022,
+2022-12-10T19:00Z,England,1,France,2,2022,
+2022-12-13T19:00Z,Argentina,3,Croatia,0,2022,
+2022-12-14T19:00Z,France,2,Morocco,0,2022,
+2022-12-17T15:00Z,Croatia,2,Morocco,1,2022,
+2022-12-18T15:00Z,Argentina,3,France,3,2022,
